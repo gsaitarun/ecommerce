@@ -1,0 +1,17 @@
+com\smvc\dao\FetchDao.class
+com\smvc\dao\FetchDao3Implementation.class
+com\smvc\controller\LoginController.class
+com\smvc\pojo\FetchPojo3.class
+com\smvc\pojo\LoginPojo.class
+com\smvc\dao\FetchDao2Implementations.class
+com\smvc\pojo\FetchPojo2.class
+com\smvc\dao\UserDao.class
+com\smvc\controller\RegistrationController.class
+com\smvc\pojo\FetchPojo.class
+com\smvc\pojo\PicturePojo.class
+com\smvc\pojo\RegistrationPojo.class
+com\smvc\dao\UserDaoImplements.class
+com\smvc\dao\FetchDao2.class
+com\smvc\dao\FetchDaoImplementations.class
+com\smvc\controller\FetchController.class
+com\smvc\dao\FetchDao3.class
